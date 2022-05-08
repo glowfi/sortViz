@@ -4,7 +4,7 @@
 
 ![DEMO](./demo.png)
 
-** Supported Algorithms **
+**Supported Algorithms**
 
 -   Bubble Sort
 -   Selection Sort
